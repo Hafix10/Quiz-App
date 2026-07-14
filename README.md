@@ -13,6 +13,7 @@ Simple and interactive quiz experience
 
 # Technologies Used
 Java
+
 Java Swing (GUI)
 
 # Project Objectives
